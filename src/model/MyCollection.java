@@ -74,5 +74,8 @@ public class MyCollection
 
     public Integer getWriteCounter() {
         return writeCounter;
+
     }
+
+    
 }
